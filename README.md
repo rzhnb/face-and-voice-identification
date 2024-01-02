@@ -2,8 +2,10 @@
 
 voice:
 
-(https://drive.google.com/file/d/1TJ4pTCXHCm7tW_Gx8O451yEShMCMx7Zz/view?usp=sharing)import soundfile as sf
-
+(https://drive.google.com/file/d/1TJ4pTCXHCm7tW_Gx8O451yEShMCMx7Zz/view?usp=sharing)
+import soundfile as sf
+[
+](https://drive.google.com/file/d/1KuPilvf5EI0aWVzy3I-Wdp1s4eUE7Hym/view?usp=sharing)
 
 مقایسه دو نمونه صدایی با استفاده از MFCC
 این اسکریپت دو نمونه صدایی را با استفاده از MFCC (Coefficient cepstrum of mel-frequency) مقایسه می کند. MFCC یک ویژگی صوتی است که ویژگی های طیفی صدا را ثبت می کند. با مقایسه MFCC دو قطعه صوتی، می توان میزان شباهت صدای آنها را تعیین کرد.
@@ -98,8 +100,8 @@ Use code with caution. Learn more
 
 face:
 ](https://drive.google.com/file/d/1KwvyQKYhLMnQVGjrRAucBFAAUbqBGVXd/view?usp=drivesdk)import cv2 
-
-
+[
+](https://drive.google.com/file/d/1nUKQ1iH7BNzS2QQzTrBKgyu1l6zTjtvr/view?usp=sharing)
 کد بالا یک برنامه Python است که از کتابخانه‌های OpenCV و cvzone برای تشخیص چهره و نمایش نسبت چشم در زمان واقعی استفاده می‌کند.
 وارد کردن کتابخانه‌ها:
 کد ابتدا کتابخانه‌های مورد نیاز، یعنی OpenCV و cvzone را وارد می‌کند.
